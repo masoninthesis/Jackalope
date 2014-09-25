@@ -23,5 +23,4 @@
   </script>
   <!-- End Google Analytics -->
   <script src="//cdn.optimizely.com/js/787550861.js"></script>
-
 </head>

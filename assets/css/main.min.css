@@ -6211,6 +6211,16 @@ img:hover {
   border-bottom-style: inset;
   border-bottom-width: 1px;
 }
+.main-head {
+  position: absolute;
+  margin-top: 0;
+  padding: 0;
+  color: #f9f1e9;
+  top: 50%;
+}
+canvas {
+  margin-left: -75px;
+}
 /***********************/
 /* Sidebar */
 /***********************/

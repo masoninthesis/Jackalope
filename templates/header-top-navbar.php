@@ -21,9 +21,10 @@
 </header>
 
 <section class="hero" id="hero">
-	<div class="wrap container">
-		<div class="row">
-			<div class="col-sm-12">
+	<div class="wrap container demo-1">
+		<div class="row large-header" id="large-header">
+			<canvas id="demo-canvas"></canvas>
+			<div class="col-sm-12 main-head">
  			    <h1>Welcome to my mind.</h1>
  			    <h2>This is my external operating system.</h2>
 			    <a href="//fast.wistia.net/embed/iframe/5tl43fy1m9?popover=true" class="wistia-popover[height=360,playerColor=a7aab4,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/b9dbc6afad01a1a2f8662ecf5054e48f17e65088.jpg?image_play_button=true&image_play_button_color=a7aab4e0&image_crop_resized=150x84" alt="" /></a>
@@ -52,4 +53,8 @@
 	  </div>
 	</div>
 </section>
+<script src="http://masonlawlor.com//assets/TweenLite.min.js"></script>
+<script src="http://masonlawlor.com//assets/EasePack.min.js"></script>
+<script src="http://masonlawlor.com//assets/rAF.js"></script>
+<script src="http://masonlawlor.com//assets/demo-1.js"></script>
 
