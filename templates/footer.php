@@ -4,8 +4,13 @@
 			<div class="row">
 				<div class="col-sm-5 pad"><!-- Video --> 
 					<center>
-						<iframe onClick="ga('send', 'event', 'video', 'play', 'main video');" src="//fast.wistia.net/embed/iframe/5tl43fy1m9?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="668" height="376"></iframe>
-						<script src='//fast.wistia.com/static/iframe-api-v1.js'></script>
+						<div id="wistia_5tl43fy1m9" class="wistia_embed" style="width:640px;height:360px;">&nbsp;</div>
+						<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js"></script>
+						<script>
+						wistiaEmbed = Wistia.embed("5tl43fy1m9", {
+						  videoFoam: true
+						});
+						</script>
 					</center>
 				</div> <!-- /Video -->
 				<div class="col-sm-7"><!-- Optin -->
