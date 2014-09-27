@@ -6239,6 +6239,12 @@ canvas {
   float: right;
 }
 /***********************/
+/* Body - Home Template */
+/***********************/
+.home-section {
+  padding: 60px;
+}
+/***********************/
 /* Sidebar */
 /***********************/
 .sidebar-optin {
