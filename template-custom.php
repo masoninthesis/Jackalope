@@ -14,12 +14,12 @@ Template Name: HDY Homepage
 				<button class="btn btn-defualt btn-md">View Pricing</button>
 			</div>
 			<div class="col-sm-6">
-				<img src="...">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/home/graph.png" alt="graph" width="468" height="212" />
 			</div>
 		</div>
 		<div class="row home-section">
 			<div class="col-sm-6">
-				<img src="...">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/home/placeholder.png" alt="placeholder" width="462" height="267" />
 			</div>
 			<div class="col-sm-6">
 				<h4>Websites.</h4>
@@ -34,13 +34,13 @@ Template Name: HDY Homepage
 				<p>"What is a growth hacking? It’s simple, we use unconventional methods to make you more money. hether you’re looking to bring more traffic to your website, make more of that traffic convert, or both– we can help you with that. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."</p>
 				<div class="row">
 					<div class="col-sm-4">
-						<center><img src="..."></center>
+						<center><a href="//fast.wistia.net/embed/iframe/5tl43fy1m9?popover=true" class="wistia-popover[height=360,playerColor=a7aab4,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/b9dbc6afad01a1a2f8662ecf5054e48f17e65088.jpg?image_play_button=true&image_play_button_color=a7aab4e0&image_crop_resized=150x84" alt="" /></a></center>
 					</div>
 					<div class="col-sm-4">
-						<center><img src="..."></center>
+						<center><a href="//fast.wistia.net/embed/iframe/5tl43fy1m9?popover=true" class="wistia-popover[height=360,playerColor=a7aab4,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/b9dbc6afad01a1a2f8662ecf5054e48f17e65088.jpg?image_play_button=true&image_play_button_color=a7aab4e0&image_crop_resized=150x84" alt="" /></a></center>
 					</div>
 					<div class="col-sm-4">
-						<center><img src="..."></center>
+						<center><a href="//fast.wistia.net/embed/iframe/5tl43fy1m9?popover=true" class="wistia-popover[height=360,playerColor=a7aab4,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/b9dbc6afad01a1a2f8662ecf5054e48f17e65088.jpg?image_play_button=true&image_play_button_color=a7aab4e0&image_crop_resized=150x84" alt="" /></a></center>
 					</div>
 				</div>
 				<button class="btn btn-defualt btn-md">Get quote</button>

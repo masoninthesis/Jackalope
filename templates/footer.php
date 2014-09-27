@@ -15,7 +15,7 @@
 				</div> <!-- /Video -->
 				<div class="col-sm-7"><!-- Optin -->
 					<div class="bottom-opt">
-						<h4>Subscribe below and I'll dare you to be great.</h4>
+						<h4>Subscribe below for exclusive tutorials and offers.</h4>
 						<!-- Mailchimp --><form class="form-inline" id="before_header" action="//howdareyou.us8.list-manage.com/subscribe/post?u=4c05f20503bc3a9d84d1a63c9&amp;id=488afa7633" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 						<input type="email" value="" name="EMAIL" class="form-control email" id="mce-EMAIL" placeholder="Email address.." required>
 						<button id="header-optin-click" name="submit" onClick="ga('send', 'event', 'optin', 'subscribe', 'header optin');" class="submit btn btn-default footer-btn btn-md" type="submit" value="Submit" tabindex="501">Subscribe</button>
@@ -38,7 +38,7 @@
 						</ul>
 					</fieldset>
 					<br />
-					<center><img src="http://masonlawlor.com/HDY/imgs/Footer-48.png" /></center>
+					<center><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/jackalope_dark.png" alt="<?php bloginfo('name'); ?>" width="30" height="30" /></center>
 				</div>
 			</div>
 		</div>
