@@ -106,9 +106,12 @@ img:hover {
     color: #fff;
     
     h2 {
-	    margin-top: 0px;
-	    margin-bottom: 22px;
-	    color: #fbc6c7;
+	    margin: 0px 40px 22px 0;
+	    color: #fbd7d8;
+	    
+	    @media (min-width: @screen-xs-min) {
+		    margin: 0 180px 22px 0;
+	    }
     }
     
     img {
@@ -127,7 +130,7 @@ img:hover {
 	margin-top: 0;
 	padding: 0;
 	color: #f9f1e9;
-	top: 50%;
+	top: 40%;
 }
 
 canvas {
@@ -141,7 +144,20 @@ canvas {
 .home-section {
 	padding: 60px;
 	
-	img {
+	.graph-img {
+		padding-bottom: 25px;
+		
+		@media (min-width: @screen-xs-min) {
+		padding-top: 50px;
+		}
+		@media (min-width: @screen-sm-min) {
+		padding-top: 140px;
+		}
+		@media (min-width: @screen-md-min) {
+		padding-top: 80px;
+		}
+	}
+	.web-img {
 		padding-bottom: 25px;
 		
 		@media (min-width: @screen-xs-min) {
@@ -150,9 +166,21 @@ canvas {
 		@media (min-width: @screen-sm-min) {
 		padding-top: 100px;
 		}
+		@media (min-width: @screen-md-min) {
+		padding-top: 50px;
+		}
 	}
 }
 
+.video-section {
+	img {
+		padding: 40px;
+		
+		@media (min-width: @screen-sm-min) {
+		padding: 0px;
+		}
+	}
+}
 
 
 /***********************/
@@ -192,6 +220,12 @@ canvas {
 /***********************/
 /* Footer */
 /***********************/
+
+
+
+#wistia_va8o82dilx {
+	padding-top: 14px;
+}
 
 .bs-docs-footer {
 	margin-bottom: 40px;
@@ -242,8 +276,6 @@ footer {
 	padding: 25px;
     color: #fff;
   }
-  
-  
 
   .right {
     text-align: center;
@@ -253,12 +285,18 @@ footer {
   }
 
   .bottom-opt {
-    padding: 15px;
+    padding:0;
     margin-top: 25px;
-    @media (min-width: @screen-sm-min) {
+    
+    @media (min-width: @screen-xs-min) {
       margin: 0;
+      padding: 0;
       text-align: left;      
     }
+    
+    @media (min-width: @screen-md-min) {
+		padding-top: 40px;
+		}
 
     form {
 

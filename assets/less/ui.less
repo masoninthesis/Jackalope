@@ -22,9 +22,35 @@ color: @brand-secondary !important;
 	color: @brand-secondary;
 }
 
+.home-btn {
+	background-color: @brand-secondary;
+	color: #fff;
+	margin-left: -6px;
+}
+
+.home-btn:hover {
+	color: #313131;
+}
+
+.video-btn {
+	margin-top: 40px;
+}
+
 /****************************/
 /* Navbar */
 /****************************/
+
+.navbar-toggle {
+	margin-top: 0;
+}
+
+.navbar-default .navbar-toggle {
+	border: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+background-color: @brand-primary;
+}
 
 .navbar-brand {
 	padding: 6px 40px;
@@ -33,6 +59,10 @@ color: @brand-secondary !important;
 /****************************/
 /* Misc */
 /****************************/
+
+.fa {
+	vertical-align: middle;
+}
 
 .form-control:focus {
 	.box-shadow(none);
@@ -92,9 +122,18 @@ li ul.children li.bypostauthor {
 
 .footer-btn {
 	border-color: #fff;
-	margin: 30px 0 40px 0;
+	margin-top: 20px;
 	background-color: #fff;
 	background-repeat: no-repeat;
+	color: @brand-secondary;
+	
+	@media (min-width: @screen-sm-min) {
+		margin-top: 0px;
+	}
+}
+
+.twitter-footer {
+	text-decoration: none;
 	color: @brand-secondary;
 }
 

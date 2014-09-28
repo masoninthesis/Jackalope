@@ -4,10 +4,10 @@
 			<div class="row">
 				<div class="col-sm-5 pad"><!-- Video --> 
 					<center>
-						<div id="wistia_5tl43fy1m9" class="wistia_embed" style="width:640px;height:360px;">&nbsp;</div>
+						<div id="wistia_va8o82dilx" class="wistia_embed" style="width:640px;height:360px;">&nbsp;</div>
 						<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js"></script>
 						<script>
-						wistiaEmbed = Wistia.embed("5tl43fy1m9", {
+						wistiaEmbed = Wistia.embed("va8o82dilx", {
 						  videoFoam: true
 						});
 						</script>
@@ -27,7 +27,7 @@
 	</div>
 	<div class="bottom-col">
 		<div class="wrap container">
-			    <p>Designed deliberately with love by <a href="http://twitter.com/masoninthesis" target="_blank">@masoninthesis</a>.</p>
+			    <p>Designed deliberately with love by <a href="http://twitter.com/masoninthesis" class="twitter-footer" target="_blank">@masoninthesis</a>.</p>
 			    <p>&copy; 2014 Jackalope | all rights reserved.</p>
 			    <ul class="bs-docs-footer-links muted">
 			      <li>Currently v1.0.0</li>

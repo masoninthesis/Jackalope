@@ -25,9 +25,9 @@
 		<div class="row large-header" id="large-header">
 			<canvas id="demo-canvas"></canvas>
 			<div class="col-sm-12 main-head">
- 			    <h1>Welcome to my mind.</h1>
- 			    <h2>This is my external operating system.</h2>
-			    <a href="//fast.wistia.net/embed/iframe/5tl43fy1m9?popover=true" class="wistia-popover[height=360,playerColor=a7aab4,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/b9dbc6afad01a1a2f8662ecf5054e48f17e65088.jpg?image_play_button=true&image_play_button_color=a7aab4e0&image_crop_resized=150x84" alt="" /></a>
+ 			    <h1>Digital strategy.</h1>
+ 			    <h2>Arming you with the tools your business needs to kick ass.</h2>
+			    <a href="//fast.wistia.net/embed/iframe/va8o82dilx?popover=true" class="wistia-popover[height=360,playerColor=ffffff,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/b1d475a810d5c1b174c980e1e3ee033985c16c7a.jpg?image_play_button=true&image_play_button_color=ffffffe0&image_crop_resized=150x84" alt="" /></a>
 <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
 				<button href="#" type="button" type="button" class="btn btn-default hero-btn" data-toggle="modal" data-target="#myModal">Subscribe</button>
 			</div>
