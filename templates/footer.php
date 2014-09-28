@@ -1,4 +1,4 @@
-<footer class="content-info" role="contentinfo">
+<footer class="content-info bs-docs-footer" role="contentinfo">
 	<div class="upper-col">
 		<div class="wrap container">
 			<div class="row">
@@ -15,7 +15,7 @@
 				</div> <!-- /Video -->
 				<div class="col-sm-7"><!-- Optin -->
 					<div class="bottom-opt">
-						<h4>Subscribe below for exclusive tutorials and offers.</h4>
+						<h3>Subscribe below for exclusive tutorials and offers.</h4>
 						<!-- Mailchimp --><form class="form-inline" id="before_header" action="//howdareyou.us8.list-manage.com/subscribe/post?u=4c05f20503bc3a9d84d1a63c9&amp;id=488afa7633" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 						<input type="email" value="" name="EMAIL" class="form-control email" id="mce-EMAIL" placeholder="Email address.." required>
 						<button id="header-optin-click" name="submit" onClick="ga('send', 'event', 'optin', 'subscribe', 'header optin');" class="submit btn btn-default footer-btn btn-md" type="submit" value="Submit" tabindex="501">Subscribe</button>
@@ -27,19 +27,27 @@
 	</div>
 	<div class="bottom-col">
 		<div class="wrap container">
-			<div class="row">
-				<div class="col-sm-12 bottom">
-					<fieldset>
-						<ul>
-							<li><a class="footer-links" href="#">SmartKit</a></li> 
-							<li><a class="footer-links" href="#">Jackalope</a></li> 
-							<li><a class="footer-links" href="#">My Story</a></li> 
-							<li><a class="footer-links" href="#">Daily Dares</a></li> 
-						</ul>
-					</fieldset>
+			    <p>Designed deliberately with love by <a href="http://twitter.com/masoninthesis" target="_blank">@masoninthesis</a>.</p>
+			    <p>&copy; 2014 Jackalope | all rights reserved.</p>
+			    <ul class="bs-docs-footer-links muted">
+			      <li>Currently v1.0.0</li>
+			      <li>&middot;</li>
+			      <li><a href="https://github.com/masoninthesis/">GitHub</a></li>
+			      <li>&middot;</li>
+			      <li><a href="http://jackalope.io/">Services</a></li>
+			      <li>&middot;</li>
+			      <li><a href="http://jackalope.io/themes/">Themes</a></li>
+			      <li>&middot;</li>
+			      <li><a href="http://jackalope.io/tutorials/">Tutorials</a></li>
+			      <li>&middot;</li>
+			      <li><a href="http://jackalope.io/about/">About</a></li>
+			      <li>&middot;</li>
+			      <li><a href="http://blog.jackalope.io">Blog</a></li>
+			      <li>&middot;</li>
+			      <li><a href="http://jackalope.io/contact/">Contact</a></li>
+			    </ul>
 					<br />
 					<center><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/jackalope_dark.png" alt="<?php bloginfo('name'); ?>" width="30" height="30" /></center>
-				</div>
 			</div>
 		</div>
 	</div>

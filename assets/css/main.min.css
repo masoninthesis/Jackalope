@@ -5831,18 +5831,18 @@ body {
 }
 h1 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  color: #3d0b5d;
+  color: #382938;
   font-weight: 200;
-  font-size: 2em;
+  font-size: 5em;
 }
 h2 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  color: #c7c0de;
+  color: #382938;
   font-weight: 400;
-  font-size: 1.15em;
+  font-size: 2.5em;
 }
 .timestamp {
-  color: #3D0B5C;
+  color: #ad494f;
 }
 ul a {
   text-decoration: none;
@@ -6285,6 +6285,33 @@ canvas {
 /***********************/
 /* Footer */
 /***********************/
+.bs-docs-footer {
+  margin-bottom: 40px;
+}
+.bs-docs-footer p {
+  margin: 0 0 10px;
+  margin-bottom: 0px;
+}
+.bs-docs-social {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.bs-docs-social-buttons {
+  display: inline-block;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.bs-docs-footer-links {
+  padding-left: 0;
+  margin-top: 20px;
+  color: #999;
+}
+.bs-docs-footer-links li {
+  display: inline;
+  padding: 0 2px;
+  margin: 0 0 0 0;
+}
 .pad {
   padding-bottom: 18px;
 }
@@ -6330,7 +6357,8 @@ footer .bottom-col {
   background-color: #fff;
   color: #ad494f;
   text-align: center;
-  margin-bottom: -40px;
+  padding-top: 40px;
+  margin-bottom: 40px;
 }
 footer ul {
   list-style-type: none;
