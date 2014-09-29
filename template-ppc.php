@@ -68,7 +68,7 @@ Template Name: PPC Pricing
 						<td><center>$649</center></td>
 					</tr>
 					<tr>
-						<td><span id="myToolTip2" data-toggle="tooltip" data-placement="right" title="This first month will not exceed this cost">First Month Total <i class="fa fa-info-circle"></i></span></td>
+						<td><span id="myToolTip2" data-toggle="tooltip" data-placement="right" title="The first month will not exceed this cost">First Month Total <i class="fa fa-info-circle"></i></span></td>
 						<td><center>$649</center></td>
 						<td><center>$849</center></td>
 						<td><center>$999</center></td>

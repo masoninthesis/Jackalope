@@ -147,28 +147,6 @@
 
 
   <?php get_template_part('templates/footer'); ?>
-  
-  <!-- pop-up modal -->
-
-    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-            <center><h3 class="modal-title" id="myModalLabel"><span class="smart-home">VIDEO TRAINING LIBRARY</span></h3></center>
-          </div>
-          <div class="modal-body">
-            <center><h3>Equip yourself like a pro</h3><br>
-            <p>Over the next 5 days you'll receive 5 videos, giving you the expertise to simplify your life and protect the things you love.</p></center>
-            <br />
-            <center><form class="form-inline" role="form">
-                <input class="required" style="font-style:italic;" placeholder=" your email ..."></input>
-                <button type="submit" class="submit btn" value="download">Send it my way</button>
-            </form></center><br>
-          </div>
-        </div>
-      </div>
-    </div><!-- /pop-up modal -->
     
 	
 	</body>

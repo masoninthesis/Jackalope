@@ -16,7 +16,7 @@
 				<div class="col-sm-7"><!-- Optin -->
 					<div class="bottom-opt">
 						<h3>Subscribe below for exclusive tutorials and offers.</h4>
-						<!-- Mailchimp --><form class="form-inline" id="before_header" action="//howdareyou.us8.list-manage.com/subscribe/post?u=4c05f20503bc3a9d84d1a63c9&amp;id=488afa7633" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+						<!-- Mailchimp --><form class="form-inline" id="before_header" action="//jackalope.us9.list-manage.com/subscribe/post?u=74a8ddb6f1ff4b3eeb5966632&amp;id=fc7436b5de" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 						<input type="email" value="" name="EMAIL" class="form-control email" id="mce-EMAIL" placeholder="Email address.." required>
 						<button id="header-optin-click" name="submit" onClick="ga('send', 'event', 'optin', 'subscribe', 'header optin');" class="submit btn btn-default footer-btn btn-md" type="submit" value="Submit" tabindex="501">Subscribe</button>
 						</form> <!-- /Mailchimp -->
