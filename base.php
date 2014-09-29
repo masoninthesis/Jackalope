@@ -49,7 +49,7 @@
 				<div class="modal-body">
 			    	<div class="row">
 				    	<div class="col-sm-4 col-xs-12"><center><button type="button" class="btn btn-default btn-lg ppc-btn" id="myToolTip1" data-toggle="tooltip" data-placement="bottom" title="Coming Soon">CRO</button></center></div>
-				    	<div class="col-sm-4 col-xs-12"><center><a href="http://jackalope.tv/pricing/" type="button" class="btn btn-default btn-lg ppc-btn">PPC</a></center></div>
+				    	<div class="col-sm-4 col-xs-12"><center><a href="http://jackalope.tv/adwords/" type="button" class="btn btn-default btn-lg ppc-btn">PPC</a></center></div>
 				    	<div class="col-sm-4 col-xs-12"><center><button type="button" class="btn btn-default btn-lg ppc-btn" id="myToolTip2" data-toggle="tooltip" data-placement="bottom" title="Coming Soon">SEO</button></center></div>
 			    	</div>   	
 				</div>
