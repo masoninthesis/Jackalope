@@ -42,6 +42,7 @@ Template Name: PPC Pricing
 		$('#myToolTip30').tooltip();
 		$('#myToolTip31').tooltip();
 		$('#myToolTip32').tooltip();
+		$('#myToolTip33').tooltip();
 	});
 </script>
 
@@ -250,6 +251,12 @@ Template Name: PPC Pricing
 					</tr>
 					<tr>
 						<td><span id="myToolTip32" data-toggle="tooltip" data-placement="right" title="Make sure that your local marketing strategies are getting local results">Google Analytics Demographic Report(s) <i class="fa fa-info-circle"></i></span></td>
+						<td><center><i class="fa fa-close"></i></center></td>
+						<td><center><i class="fa fa-close"></i></center></td>
+						<td><center><i class="fa fa-check"></i></center></td>
+					</tr>
+					<tr>
+						<td><span id="myToolTip33" data-toggle="tooltip" data-placement="right" title="Specifically retarget customers who have already visited you page">Retargeting <i class="fa fa-info-circle"></i></span></td>
 						<td><center><i class="fa fa-close"></i></center></td>
 						<td><center><i class="fa fa-close"></i></center></td>
 						<td><center><i class="fa fa-check"></i></center></td>

@@ -56,7 +56,7 @@ function roots_display_sidebar() {
     array(
       'is_404',
       'is_front_page', 
-	  	array('is_page', array(13)),
+	  	array('is_page', array(7)),
 	  'is_single' 
     ),
     /**
