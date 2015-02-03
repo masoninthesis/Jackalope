@@ -44,7 +44,7 @@ Template Name: Jackalope Homepage
 		<div class="row home-section video-section">
 			<div class="col-sm-12">
 				<h2>Videos.</h2>
-				<p>"What is a growth hacking? It’s simple, we use unconventional methods to make you more money. Whether you’re looking to bring more traffic to your website, or convert more of that traffic into dollars– we can help you with that."</p>
+				<p>"There's no faster way to communicate a message than through a story. We can craft your story though motion graphic or live action videos."</p>
 				<div class="row">
 					<div class="col-sm-4 col-xs-12">
 						<center><a href="//fast.wistia.net/embed/iframe/5we0mp1icc?popover=true" class="wistia-popover[height=360,playerColor=313131,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/c6afb1a5786de38608f9f309c4967079d90cc164.jpg?image_play_button=true&image_play_button_color=313131e0&image_crop_resized=150x84" alt="" /></a></center>
@@ -58,4 +58,4 @@ Template Name: Jackalope Homepage
 				</div>
 				<button class="btn btn-defualt btn-lg home-btn" data-toggle="modal" data-target="#videoModal">Get quote <i class="fa fa-chevron-right"></i></button>
 			</div>
-		</div> 
+		</div>

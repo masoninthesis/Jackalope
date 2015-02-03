@@ -63,16 +63,16 @@ Template Name: PPC Pricing
 					<th class="Green"><center>Pro</center></th>
 				<tbody>
 					<tr>
+						<td><span id="myToolTip2" data-toggle="tooltip" data-placement="right" title="The first month will not exceed this cost">Activation <i class="fa fa-info-circle"></i></span></td>
+						<td><center>$649</center></td>
+						<td><center>$849</center></td>
+						<td><center>$999</center></td>
+					</tr>
+					<tr>
 						<td><span id="myToolTip1" data-toggle="tooltip" data-placement="right" title="This is the base monthly fee">Min. Monthly Fee <i class="fa fa-info-circle"></i></span></td>
 						<td><center>$249</center></td>
 						<td><center>$499</center></td>
 						<td><center>$649</center></td>
-					</tr>
-					<tr>
-						<td><span id="myToolTip2" data-toggle="tooltip" data-placement="right" title="The first month will not exceed this cost">First Month Total <i class="fa fa-info-circle"></i></span></td>
-						<td><center>$649</center></td>
-						<td><center>$849</center></td>
-						<td><center>$999</center></td>
 					</tr>
 					<tr>
 						<td><span id="myToolTip3" data-toggle="tooltip" data-placement="right" title="This is a keyword specific landing page for your paid traffic">Landing Page <i class="fa fa-info-circle"></i></span></td>
@@ -84,7 +84,7 @@ Template Name: PPC Pricing
 						<td><span id="myToolTip4" data-toggle="tooltip" data-placement="right" title="If you want to run ads for an additional product/service, Google may require an additional landing page">Additional Pages <i class="fa fa-info-circle"></i></span></td>
 						<td><center>$99/ea</center></td>
 						<td><center>$49/ea</center></td>
-						<td><center>Free</center></td>
+						<td><center>Unlimited</center></td>
 					</tr>
 					<tr>
 						<td><span id="myToolTip5" data-toggle="tooltip" data-placement="right" title="This fee is not additional to your monthly min. fee unless it exceeds it">Management Fee <i class="fa fa-info-circle"></i></span></td>
@@ -116,7 +116,7 @@ Template Name: PPC Pricing
 						<td><center><i class="fa fa-close"></i></center></td>
 						<td><center><i class="fa fa-check"></i></center></td>
 					</tr>
-					
+
 					<tr>
 						<td><span id="myToolTip10" data-toggle="tooltip" data-placement="right" title="Running multiple landing pages against each other to see which converts best">Landing Page Multivariate Testing <i class="fa fa-info-circle"></i></span></td>
 						<td><center><i class="fa fa-close"></i></center></td>
@@ -265,7 +265,7 @@ Template Name: PPC Pricing
 				</tr>
 			</thead>
 		</table>
-	</section> 
+	</section>
 
 <ul class="pager">
   <li class="previous"><a href="http://howdareyou.io/">&larr; CRO</a></li>
